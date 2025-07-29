@@ -36,7 +36,8 @@ SQL was used to establish a connection to the dataset, enabling efficient queryi
 - **Python**  
 - **Pandas** – data manipulation  
 - **Matplotlib / Seaborn** – data visualization  
-- **Jupyter Notebook** – for analysis and documentation  
+- **Jupyter Notebook** – for analysis and documentation
+- **Tableau** - data visualization
 
 ---
 
